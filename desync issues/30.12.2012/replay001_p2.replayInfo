@@ -1,0 +1,87 @@
+version 14400
+localtime Sun Dec 30 19:17:35 2012
+map Chasm
+onlineGame yes
+aiMask 58
+maxPlayers 2
+netPlayers 2
+playerCfg 2v2C
+gameMode Coop
+player 1 {
+  name SmilenceLin
+  airmech Osprey
+  pilot Jesus
+  item XMasPresent2
+  flair1 NoFlair
+  flair2 NoFlair
+  flair3 NoFlair
+  army1 Runner
+  army2 T99
+  army3 Gemini
+  army4 MoneyMaker
+  army5 Generator
+  army6 Ratchet
+  army7 Goliath
+  army8 Arty
+}
+player 2 {
+  name SmilenceLin
+  airmech Osprey
+  pilot Jesus
+  item NoItem
+  flair1 NoFlair
+  flair2 NoFlair
+  flair3 NoFlair
+  army1 Runner
+  army2 T99
+  army3 Gemini
+  army4 MoneyMaker
+  army5 Generator
+  army6 Ratchet
+  army7 Goliath
+  army8 Arty
+}
+player 3 {
+  name Wlsek
+  airmech Saucer_BlackOps
+  pilot Ashe
+  item Atlas
+  flair1 CCMagenta
+  flair2 JetpackHusky
+  flair3 SCMagenta
+  army1 Bucky
+  army2 Goliath
+  army3 Aegis
+  army4 Seeker
+  army5 Longhorn
+  army6 Patcher
+  army7 T99
+  army8 MoneyMaker
+}
+player 4 {
+  name 
+  airmech FighterA
+  pilot NoPilot
+  item NoItem
+  flair1 NoFlair
+  flair2 NoFlair
+  flair3 NoFlair
+}
+player 5 {
+  name Samson
+  airmech FighterA
+  pilot NoPilot
+  item NoItem
+  flair1 NoFlair
+  flair2 NoFlair
+  flair3 NoFlair
+}
+player 6 {
+  name Hawk
+  airmech FighterA
+  pilot NoPilot
+  item NoItem
+  flair1 NoFlair
+  flair2 NoFlair
+  flair3 NoFlair
+}
