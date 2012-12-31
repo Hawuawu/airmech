@@ -1,0 +1,87 @@
+version 14400
+localtime Mon Dec 31 18:48:31 2012
+map Thar
+onlineGame yes
+aiMask 58
+maxPlayers 2
+netPlayers 2
+playerCfg 2v2C
+gameMode Coop
+player 1 {
+  name Wlsek
+  airmech Saucer_BlackOps
+  pilot Ashe
+  item Atlas
+  flair1 CCMagenta
+  flair2 JetpackHusky
+  flair3 SCMagenta
+  army1 Bucky
+  army2 Goliath
+  army3 Aegis
+  army4 Seeker
+  army5 Longhorn
+  army6 Patcher
+  army7 T99
+  army8 MoneyMaker
+}
+player 2 {
+  name MrAgent
+  airmech FighterA
+  pilot Mako
+  item NoItem
+  flair1 NoFlair
+  flair2 NoFlair
+  flair3 NoFlair
+  army1 SAM
+  army2 Bombs
+  army3 Jackal
+  army4 Archy
+  army5 Longhorn
+  army6 Patcher
+  army7 T99
+  army8 Seeker
+}
+player 3 {
+  name MrAgent
+  airmech FighterA
+  pilot Mako
+  item TBTophat
+  flair1 NoFlair
+  flair2 NoFlair
+  flair3 NoFlair
+  army1 SAM
+  army2 Bombs
+  army3 Jackal
+  army4 Archy
+  army5 Longhorn
+  army6 Patcher
+  army7 T99
+  army8 Seeker
+}
+player 4 {
+  name 
+  airmech FighterA
+  pilot NoPilot
+  item NoItem
+  flair1 NoFlair
+  flair2 NoFlair
+  flair3 NoFlair
+}
+player 5 {
+  name Samson
+  airmech FighterA
+  pilot NoPilot
+  item NoItem
+  flair1 NoFlair
+  flair2 NoFlair
+  flair3 NoFlair
+}
+player 6 {
+  name Hawk
+  airmech FighterA
+  pilot NoPilot
+  item NoItem
+  flair1 NoFlair
+  flair2 NoFlair
+  flair3 NoFlair
+}
